@@ -1,0 +1,13 @@
+  <appSettings>
+	 <add key="userName" value="su" />
+		<add key="password" value="su" />
+		<add key="companyCode" value="020" />
+		<add key="clientId" value="2RcPqa*ajaf5LMFi6iNhDelHGfpD5KJws5*nTwmWDJc=!n" />
+		<add key="clientsecret" value="M^G3B4lybTgO8uasLfu4W7BY74jiIpK4PHKRoJhh9QY=!n" />
+    <add key="webpages:Version" value="3.0.0.0" />
+    <add key="webpages:Enabled" value="false" />
+    <add key="ClientValidationEnabled" value="true" />
+    <add key="UnobtrusiveJavaScriptEnabled" value="true" />
+	  <add key="CRMServer" value="http://localhost:9090" />
+	  
+  </appSettings>
